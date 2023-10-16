@@ -15,8 +15,8 @@
     justify-content: center
 }
 .calc{
-    height: 67vh;
-    width: 27vw;
+    height: 510px;
+    width: 415px;
     background-color: aliceblue;
     display: flex;
     flex-direction: column;
